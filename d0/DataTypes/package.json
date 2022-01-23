@@ -1,0 +1,21 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "Today, we're discussing data types. Check out the attached tutorial for more details.",
+  "main": "performOperation.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-spies": "^1.0.0",
+    "mocha": "^9.1.4",
+    "mocha-sinon": "^2.1.2"
+  }
+}
