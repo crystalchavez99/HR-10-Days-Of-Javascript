@@ -23,6 +23,13 @@ Here is the link to the challenge overall: https://www.hackerrank.com/domains/tu
       - [My Solution](https://www.hackerrank.com/challenges/js10-hello-world/submissions/code/252930831)
     - [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)
       - [My Solution](https://www.hackerrank.com/challenges/js10-data-types/submissions/code/252931996)
+  - Day 1:
+    - [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)
+      - [My Solution]
+    - [Functions](https://www.hackerrank.com/challenges/js10-function/problem)
+      - [My Solution]
+    - [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)
+      - [My Solution]
 
 
 ### **Patreon Support**
