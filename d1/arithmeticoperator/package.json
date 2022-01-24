@@ -1,0 +1,19 @@
+{
+  "name": "d1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arithmeticop.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4"
+  }
+}
