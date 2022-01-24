@@ -1,8 +1,4 @@
-# Overview: 10 Days of JavaScript
-
-This series focuses on learning and practicing JavaScript. Each challenge comes with a tutorial article, and you can view these articles by clicking either the Topics tab along the top or the article icon in the right-hand menu.
-
-## Objective
+# Objective
 
 In this challenge, we review some basic concepts that will get you started with this series. Check out the tutorial to learn more about JavaScript's lexical structure.
 
