@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.hackerrank.com/crystalchavez99"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+<p align="center"><a href="https://www.hackerrank.com/crystalchavez99"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"></a></p>
 
 # HackerRank 10 Days of Javascript
 
@@ -25,11 +25,25 @@ Here is the link to the challenge overall: https://www.hackerrank.com/domains/tu
       - [My Solution](https://www.hackerrank.com/challenges/js10-data-types/submissions/code/252931996)
   - Day 1:
     - [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)
-      - [My Solution]
+      - [My Solution](https://www.hackerrank.com/challenges/js10-arithmetic-operators/submissions/code/253076025)
     - [Functions](https://www.hackerrank.com/challenges/js10-function/problem)
-      - [My Solution]
+      - [My Solution](https://www.hackerrank.com/challenges/js10-function/submissions/code/253076807)
     - [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)
-      - [My Solution]
+      - [My Solution](https://www.hackerrank.com/challenges/js10-let-and-const/submissions/code/253103389)
+  - Day 2:
+    - [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)
+      - [My Solution](https://www.hackerrank.com/challenges/js10-if-else/submissions/code/253270283)
+    - [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)
+      - [My Solution](https://www.hackerrank.com/challenges/js10-switch/submissions/code/253271276)
+    - [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)
+      - [My Solution](https://www.hackerrank.com/challenges/js10-loops/submissions/code/252933194)
+  - Day 3:
+    - [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)
+      - [My Solution](https://www.hackerrank.com/challenges/js10-arrays/submissions/code/253764477)
+    - [Try,Catch,Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)
+      - [My Solution](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/submissions/code/253787725)
+    - [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)
+      - [My Solution](https://www.hackerrank.com/challenges/js10-throw/submissions/code/253787905)
 
 
 ### **Patreon Support**
